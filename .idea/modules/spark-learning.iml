@@ -36,6 +36,7 @@
     <orderEntry type="library" name="sbt: com.google.re2j:re2j:1.1:jar" level="project" />
     <orderEntry type="library" name="sbt: com.nimbusds:nimbus-jose-jwt:4.41.1:jar" level="project" />
     <orderEntry type="library" name="sbt: com.ning:compress-lzf:1.0.3:jar" level="project" />
+    <orderEntry type="library" name="sbt: com.outr:hasher_2.12:1.2.2:jar" level="project" />
     <orderEntry type="library" name="sbt: com.squareup.okhttp:okhttp:2.7.5:jar" level="project" />
     <orderEntry type="library" name="sbt: com.squareup.okio:okio:1.6.0:jar" level="project" />
     <orderEntry type="library" name="sbt: com.thoughtworks.paranamer:paranamer:2.8:jar" level="project" />
